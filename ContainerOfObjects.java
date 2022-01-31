@@ -5,10 +5,7 @@
  */
 package bikeStore;
 
-/**
- *
- * @author czaro
- */
+
 public class ContainerOfObjects {
 
     private final int DEFAULT_SIZE = 100;
